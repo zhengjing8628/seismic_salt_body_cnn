@@ -1,4 +1,6 @@
-# seismic_salt_interpretation_cnn
+# Automatic Seismic Salt Interpretation with Deep Convolutional Neural Networks
+
+Author: Yu Zeng     Date: Feb. 8, 2019
 
 This notebook contains sample Python codes to prepare input data and to construct / train convolutional neural networks for automatic seismic salt interpretation with Deep Convolutional Neural networks. The potential of CNN-based salt boy interpretation is demonstrated by using a state-of-art network structure U-Net, along with the residual learning framework ResNet, to delineate salt body with high precision.
 
