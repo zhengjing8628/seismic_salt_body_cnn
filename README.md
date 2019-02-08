@@ -1,6 +1,6 @@
 # Automatic Seismic Salt Interpretation with Deep Convolutional Neural Networks
 
-Author: Yu (Jason) Zeng  &nbsp; &nbsp;| &nbsp; &nbsp; Email: yu.zeng.duke@gmail.com  | &nbsp; &nbsp; Date: Feb. 08, 2019
+Author: Yu (Jason) Zeng  &nbsp; &nbsp;| &nbsp; &nbsp; Email: yu.zeng.duke@gmail.com  &nbsp; &nbsp;| &nbsp; &nbsp; Date: Feb. 08, 2019
 
 This notebook contains sample Python codes to prepare input data staring from SEGYs and to construct / train convolutional neural networks for automatic seismic salt interpretation with Deep Convolutional Neural networks. The great potential of CNN-based salt boy interpretation is demonstrated by using a state-of-art network structure U-Net, along with the residual learning framework ResNet, to delineate salt body with high precision. Network adjustments, including the Exponential Linear Units (ELU) activation function, the Lovasz-Softmax hinge loss, and the stratified K-fold cross-validation, have been deployed to further improve the prediction accuracy.
 
