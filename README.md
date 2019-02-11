@@ -6,7 +6,7 @@ This folder contains sample Python codes to prepare input data staring from SEGY
 
 > Our paper entitled **Automatic Seismic Salt Interpretation with Deep Convolutional Neural Networks** ([arxiv:1802.01101](https://arxiv.org/abs/1812.01101)) has summarzied this work and has been accepted by *The 3rd International Conference on Information System and Data Mining* ([ICISDM 2019](http://icisdm.org/)). My co-authors of this paper are Kebei Jiang and Jie Chen.
 
-Two main IPython notebooks are posted here:
+Two main Jupyter notebooks are posted here:
 1. *[salt_body_segyin_data_prep.ipynb](salt_body_segyin_data_prep.ipynb)* 
    * This notebook covers data preparation from SEGY, image upsampling, image cropping.
    
